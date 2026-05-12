@@ -1,4 +1,1 @@
-data/*.csv
 __pycache__/
-.env
-*.pyc
